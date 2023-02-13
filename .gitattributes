@@ -1,3 +1,4 @@
 . filter=lfs diff=lfs merge=lfs -text
 多伦多事故数据/ filter=lfs diff=lfs merge=lfs -text
 巴吞鲁日路易斯安那州交通事故/ filter=lfs diff=lfs merge=lfs -text
+美国洛杉矶交通事故数据/traffic-collision-data-from-2010-to-present.csv filter=lfs diff=lfs merge=lfs -text
